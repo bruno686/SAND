@@ -1,5 +1,4 @@
-# Boosting Multimedia Recommendation via Separate Generic and
-Unique Awareness
+# Boosting Multimedia Recommendation via Separate Generic and Unique Awareness
 
 The code and datasets of our paper "Boosting Multimedia Recommendation via Separate Generic and
 Unique Awareness"
