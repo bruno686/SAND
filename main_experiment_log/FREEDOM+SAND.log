@@ -1,6 +1,3 @@
-23 Mar 00:24    INFO ██Server: 	user-System
-23 Mar 00:24    INFO ██Dir: 	/home/hezhuangzhuang/mm-ood/src
-23 Mar 00:24    INFO
 gpu_id=0
 use_gpu=True
 seed=[999]
