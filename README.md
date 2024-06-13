@@ -30,7 +30,6 @@ Special thanks to [MMRec](https://github.com/enoche/MMRec)
 python main.py
 ```
 
-
 # Open Source Log
 
-We open the main experimental log
+We open-source the training and testing logs, as well as the logs that SAND plugs into other classical methods (VBPR, FREEDOM) to facilitate a deeper understanding of our SAND.
